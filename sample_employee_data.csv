@@ -1,0 +1,6 @@
+EmployeeID,Name,Department,Salary,YearsAtCompany,BonusPercentage
+101,Alice,HR,50000,2,0.1
+102,Bob,Finance,60000,5,0.15
+103,Charlie,IT,55000,3,0.12
+104,Diana,HR,52000,4,0.1
+105,Evan,IT,58000,1,0.08
