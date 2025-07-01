@@ -1,0 +1,6 @@
+employee_id,name,department,salary,years_at_company,bonus%
+201.0,Luna,Sales,62000.0,3.0,0.12
+202.0,Noah,Sales,59666.666666666664,4.25,0.1
+203.0,Zara,HR,58000.0,4.0,0.09833333333333333
+204.0,Kai,IT,61000.0,5.0,0.09
+205.0,Mila,HR,57000.0,4.25,0.11
